@@ -14,7 +14,7 @@
     align-items: center;
      font-size: 12px;
      font-weight: bold;
-     font-family:cursive;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      height: 10vh;
      text-align: center;
       color:white;
@@ -62,7 +62,7 @@
       }
         .box p {
              font-size: 20px ;
-             font-family: cursive;
+             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
         
 
